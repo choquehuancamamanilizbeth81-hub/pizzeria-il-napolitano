@@ -21,7 +21,8 @@ Proyecto desarrollado con **HTML, CSS y JavaScript vanilla** (módulos ES6), sin
 
 - HTML
 - CSS
-- JS
+- JSON
+- JavaScript
 - [GoogleFonts](https://fonts.google.com/)
 - [Animate.css](https://animate.style)
 - [SweetAlert2](https://sweetalert2.github.io/)
